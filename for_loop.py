@@ -40,6 +40,7 @@ else:
     print("Done")
     
 count = 0
+print("hello")
 for i in range(1, 6):
     count = count + 1
     if count > 2:
